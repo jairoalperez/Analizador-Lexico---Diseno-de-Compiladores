@@ -1,7 +1,7 @@
 /*
 	Proyecto #1 de Diseño de Compiladores
 	Jairo Perez
-  C.I.28336214
+  	C.I.28336214
 */
 
 #include <stdio.h>
